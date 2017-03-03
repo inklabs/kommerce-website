@@ -51,6 +51,14 @@ body {
 
 .jumbotron h1 {
     text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 4.2rem;
+}
+
+.jumbotron h2 {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2.2rem;
 }
 
 .jumbotron .btn {
